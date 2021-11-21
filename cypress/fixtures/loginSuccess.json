@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "toptest_001@hotmail.com",
+        "username": "toptest_001@hotmail.com",
+        "bio": null,
+        "image": null,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvcHRlc3RfMDAxQGhvdG1haWwuY29tIiwidXNlcm5hbWUiOiJ0b3B0ZXN0XzAwMUBob3RtYWlsLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJFBmekVJVDJYTkpaMWtCWDFoT25Rby5NSWQwblNNUHZuYUVKR3M5cmlQWGt0RnNPVDd2azhpIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vYXBpLnJlYWx3b3JsZC5pby9pbWFnZXMvc21pbGV5LWN5cnVzLmpwZWciLCJpYXQiOjE2MzcyMDMwNzIsImV4cCI6MTY0MjM4NzA3Mn0.qFpfWZeDI7Zm_fpYFV8j63tKsT2Mns5SjKJ5DVRzMXE"
+    }
+}

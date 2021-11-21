@@ -1,0 +1,115 @@
+{
+    "articles": [
+        {
+            "slug": "TOPTEST-368",
+            "title": "TOPTEST",
+            "description": "TOPTEST",
+            "body": "TOPTEST",
+            "createdAt": "2021-11-19T03:06:10.488Z",
+            "updatedAt": "2021-11-19T03:06:10.488Z",
+            "tagList": [
+                "IOS",
+                "ANDROID"
+            ],
+            "author": {
+                "username": "toptest_001",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 0,
+            "favorited": false
+        }
+        ,
+        {
+            "slug": "TOPTEST-002",
+            "title": "TOPTEST-002",
+            "description": "Article-02",
+            "body": "Article-02",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "toptest",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 1,
+            "favorited": false
+        },
+        {
+            "slug": "TOPTEST-003",
+            "title": "TOPTEST-003",
+            "description": "Article-03",
+            "body": "Article-03",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "toptest",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 2,
+            "favorited": false
+        },
+        {
+            "slug": "TOPTEST-004",
+            "title": "TOPTEST-004",
+            "description": "Article-04",
+            "body": "Article-04",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "toptest",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 3,
+            "favorited": false
+        }
+        ,
+        {
+            "slug": "TOPTEST-005",
+            "title": "TOPTEST-005",
+            "description": "Article-05",
+            "body": "Article-05",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "toptest",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 4,
+            "favorited": false
+        }
+    ],
+    "articlesCount": 5
+}
